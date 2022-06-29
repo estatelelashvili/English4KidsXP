@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "correctAnswer": "Dragon",
+        "wordSound":"./dragon--_gb_1.mp3"
+    },
+    {
+        "id": 2,
+        "correctAnswer": "Knight",
+        "wordSound":"./knight--_gb_1.mp3"
+    },
+    {
+        "id": 3,
+        "correctAnswer": "Witch",
+        "wordSound":"./witch--_gb_1.mp3"
+    },
+    {
+        "id": 4,
+        "correctAnswer": "King",
+        "wordSound":"./king--_gb_1.mp3"
+    },
+    {
+        "id": 5,
+        "correctAnswer": "Mermaid",
+        "wordSound":"./mermaid--_gb_1.mp3"
+    },
+    {
+        "id": 6,
+        "correctAnswer": "Princess",
+        "wordSound":"./princess--_gb_1.mp3"
+    },
+    {
+        "id": 7,
+        "correctAnswer": "Wizard",
+        "wordSound":"./wizard--_gb_1.mp3"
+    },
+    {
+        "id": 8,
+        "correctAnswer": "Fairy",
+        "wordSound":"./fairy--_gb_1.mp3"
+    }
+]
